@@ -1,2 +1,2 @@
-# Appple_Clone
+# Apple_Clone
 Microverse Solo Project
