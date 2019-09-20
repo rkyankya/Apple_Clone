@@ -113,6 +113,8 @@ h1 {
 
 .news {
     margin-top: 2px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 .news a {
@@ -139,6 +141,7 @@ footer {
     font-size: 60%;
     padding: 5px 0 20px;
     overflow: auto;
+    clear: none;
 }
 
 .left {
@@ -149,6 +152,8 @@ footer {
 .right {
     float: right;
     width: 50%;
+    clear: none;
+    position: static;
 }
 
 footer a {
