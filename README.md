@@ -1,23 +1,10 @@
-# Apple_Clone
-Microverse Solo Project
+# micro-apple
 
-BUILDING WITH BACKGROUNDS AND GRADIENTS
+This project is to learn how to apply backgrounds and gradients with CSS3.
 
-Follow the instructions atop the Google Homepage project to set up a Github repository for this project 
+The task was to copy apple's old website
 
+Author: Kyankya Raymond
 
-Author:
-This project was executed by Kyankya Raymond student of Microverse.
-
-Technologies Used.
-HTML and CSS
-
-Setup
-How to setup a repo of this page on your local machine:
-
-Open your git bash and cd to the location you'd like to put your files the run the command below.
-
-Git clone: git clone https://github.com/rkyankya/Apple_Clone.git
-
-Here is the link to the live version of this project here
+Clone: git clone https://github.com/rkyankya/Apple_Clone.git
 
