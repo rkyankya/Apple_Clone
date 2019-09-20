@@ -1,7 +1,7 @@
 # Apple_Clone
 Microverse Solo Project
 
-EMBEDDING IMAGES AND VIDEO
+BUILDING WITH BACKGROUNDS AND GRADIENTS
 
 Follow the instructions atop the Google Homepage project to set up a Github repository for this project 
 
