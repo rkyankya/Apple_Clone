@@ -79,7 +79,6 @@ body a {
 
 #nav-bar li {
     width: 80%;
-    margin: 0 10px;
 }
 
 #nav-bar li input {
@@ -98,7 +97,7 @@ body a {
 }
 
 #nav-bar li input:focus {
-    background-color: white !important;
+    background-color: white;
     background: url("../image/search-icon-black.png") top 3px left 4px no-repeat;
     background-size: 17px;
     width: 170px;
@@ -196,7 +195,7 @@ body a {
     font-size: 10px;
     line-height: 2.5em;
     margin-top: 22px;
-    font-weight: 400 !important;
+    font-weight: 400;
     color: rgb(170, 168, 168);
 }
 
